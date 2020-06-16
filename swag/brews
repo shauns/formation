@@ -1,10 +1,12 @@
 ack
+applesimutils
 apr
 apr-util
 asciinema
 aspell
 autoconf
 automake
+aws-elasticbeanstalk
 awscli
 bash
 cmake
@@ -30,6 +32,7 @@ gnu-sed
 go
 graphicsmagick
 grep
+httpie
 hub
 jbig2dec
 jemalloc
@@ -108,8 +111,5 @@ x265
 xvid
 xz
 yajl
-yasm
 yarn
-applesimutils
-httpie
-aws-elasticbeanstalk
+yasm
