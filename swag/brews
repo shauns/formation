@@ -152,6 +152,7 @@ proj
 protobuf
 pyenv
 pyenv-virtualenv
+pyenv-which-ext
 pypy
 python
 python@2
