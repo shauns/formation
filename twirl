@@ -503,7 +503,7 @@ copy_key_github() {
 }
 
 github_key_check() {
-    return
+    print_success "SSH key"
 	# if ask "SSH key found. Enter it in Github?" Y; then
 	# 	copy_key_github;
 	# else
