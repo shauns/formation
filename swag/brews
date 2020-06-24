@@ -13,6 +13,7 @@ cocoapods
 cookiecutter
 coreutils
 fastlane
+ffmpeg
 findutils
 gawk
 gdal
@@ -21,6 +22,7 @@ ghostscript
 git
 git-lfs
 gnu-sed
+go
 graphicsmagick
 grep
 httpie
@@ -36,6 +38,7 @@ openssh
 optipng
 pgbouncer
 pre-commit
+protobuf
 pyenv-virtualenv
 pyenv-which-ext
 qrencode
