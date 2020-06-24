@@ -2,11 +2,10 @@ adoptopenjdk8
 android-ndk
 android-sdk
 android-studio
-arq
+arq5
 cyberduck
 disk-inventory-x
 docker
-fastlane
 firefox
 font-raleway
 genymotion
@@ -23,7 +22,6 @@ pycharm
 rocket
 spectacle
 spotify
-steam
 switchhosts
 virtualbox
 virtualbox-extension-pack
