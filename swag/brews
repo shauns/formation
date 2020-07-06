@@ -37,7 +37,6 @@ ohcount
 openssh
 optipng
 pgbouncer
-poetry
 pre-commit
 protobuf
 pyenv-virtualenv
